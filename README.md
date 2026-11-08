@@ -1,6 +1,6 @@
 # SysGuard
 Python-based Linux system monitoring tool
-# SysGuard 🐧
+# SysGuard 
 
 **A Python-based Linux System Monitoring Tool.**
 
